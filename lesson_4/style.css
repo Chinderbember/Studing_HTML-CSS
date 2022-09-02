@@ -1,0 +1,46 @@
+body {
+	font-family: sans-serif;
+}
+.paragraph, .button_class {
+	font-size:  16px;
+}
+.input_class, .button_class {
+	border-radius:  10px;
+}
+.h1_header, .h4_header, .paragraph {
+	color:  #1f3f68;
+}
+
+.paragraph, .button_class {
+	line-height:  26px;
+}
+.h2_header, .button_class {
+	font_weight:  500;
+}
+.h2_header, .h3_header, .button_class {
+	text-align:  center;
+}
+.h1_header {
+	font-size:  64px;
+}
+.h2_header {
+	font-size:  44px;
+}
+.h3_header {
+	font-size:  36px;
+}
+.h4_header {
+	font-size: 20px;
+	line-height:  30px;
+}
+.input_class {
+	border:  1px solid #356ead;
+	box-sizing:  border-box;
+	opacity:  0.4;
+}
+.button_class {
+	background:  #5a98d0;
+	box-shadow:  5px 20px 50px rgba(16, 112, 177, 0.2);
+	color:  #ffffff;
+	text-transform:  uppercase;
+}
